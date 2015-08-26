@@ -5,3 +5,5 @@ Carson Katri
 Ryan Katri
 
 Contribute to the project! All help is appreciated. All contributor's code will be reviewed by Carson or Ryan Katri. Be sure all code is relevent.
+
+Get more information at http://ctkrocks.github.io/TerminalTerraria
